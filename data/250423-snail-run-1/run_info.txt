@@ -1,0 +1,14 @@
+
+Sample information:
+L1 - barcode09
+L2 - barcode10
+L3 - barcode11
+H1 - barcode12
+H2 - barcode13
+H3 - barcode14
+
+L = Lower, H = Upper?
+3 replicates of each
+
+All were run with 180 ng input into the Rapid Barcoding Kit 24 protocol
+
